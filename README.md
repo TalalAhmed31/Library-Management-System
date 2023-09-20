@@ -19,9 +19,9 @@ The Library Management System (LMS) is a PHP-based application with a MySQL data
 ## Getting Started
 To run the project locally:
 
-1. Place the "librarymanagmentsysteminphp-main" folder inside your XAMPP's `htdocs` directory.
+1. Place the "Library-Management-System-main " folder inside your XAMPP's `htdocs` directory.
 2. Start your XAMPP server.
-3. Open your web browser and navigate to `http://localhost/librarymanagmentsysteminphp-main/index.php`.
+3. Open your web browser and navigate to `http://localhost/Library-Management-System-main/index.php`.
 
 ## Important Note
 Before accessing the login panel, make sure to update the database with the necessary user information. 
